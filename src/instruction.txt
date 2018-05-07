@@ -6,3 +6,8 @@
 
 B+Tree
 等等
+
+
+参考：
+Java中二叉树存储结构实现
+http://www.cnblogs.com/Dylansuns/p/6791852.html
